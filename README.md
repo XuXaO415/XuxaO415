@@ -24,17 +24,19 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
+- 🚨 TMI fact: Was extorted by police in South America, later the same day I was extorted by bicycle riding local residents  
 
 -->
 
 - 🧝🏼‍♀️ Fun facts: Avid gamer with 275+ game collection, cartoon and anime lover,  classically trained violinist, love gardening (currently trying to grow plummeria), travel lover!
-- <!--
-- 🚨 TMI fact: Was extorted by police in South America, later the same day I was extorted by bicycle riding local residents  
--->
+
+
 **Languages and Tools:**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ajax/ajax.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jinja2/jinja2.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
@@ -45,4 +47,7 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg"></code>
 
 ![XuxaO415's GitHub stats](https://github-readme-stats.vercel.app/api?username=xuxaO415&theme=jolly&show_icons=true)
+ 
 ![XuxaO415 Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=xuxao415&langs_count=8&hide=Jupyter%20Notebook&hide_border=true&exclude_repo&layout=compact&custom_title=Most%20Used%20Languages%20(Top%208))
+
+
