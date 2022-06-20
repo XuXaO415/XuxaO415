@@ -27,9 +27,10 @@ Here are some ideas to get you started:
 
 -->
 
-- 🧝🏼‍♀️ Fun facts: Avid gamer with 275+ game collection, cartoon and anime lover,  classically trained violinist, love gardening (currently trying to grow plummeria), travel lover, and I know how to fix up cars
+- 🧝🏼‍♀️ Fun facts: Avid gamer with 275+ game collection, cartoon and anime lover,  classically trained violinist, love gardening (currently trying to grow plummeria), travel lover!
+- <!--
 - 🚨 TMI fact: Was extorted by police in South America, later the same day I was extorted by bicycle riding local residents  
-
+-->
 **Languages and Tools:**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
