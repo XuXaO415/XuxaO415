@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 
 
 **Languages and Tools:**
+<!--
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -47,6 +48,26 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/alchmey/alchmey.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
+-->
+
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Pyhton-186489?style=for-the-badge&logo=python&logoColor=white)
+![WTForms](https://img.shields.io/badge/WTForms-000000?style=for-the-badge&logo=wtforms&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-186489?style=for-the-badge&logo=flask&logoColor=black)
+![Jinja](https://img.shields.io/badge/Jinja-186489?style=for-the-badge&logo=jinja&logoColor=black)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-186489?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+![Bcrypt](https://img.shields.io/badge/Bcrypt-186489?style=for-the-badge&logo=bcrypt&logoColor=white)
+![Heroku](https://img.shields.io/badge/heroku-186489?style=for-the-badge&logo=heroku&logoColor=purple)
+![Font Awesome](https://img.shields.io/badge/fontawesome-186489?style=for-the-badge&logo=fontawesome&logoColor=white)
+![Axios](https://img.shields.io/badge/axios-186489?style=for-the-badge&logo=axios&logoColor=white)
+![jQuery](https://img.shields.io/badge/jquery-186489?style=for-the-badge&logo=jquery&logoColor=white)
+![Ajax](https://img.shields.io/badge/ajax-186489?style=for-the-badge&logo=ajax&logoColor=white)
+![React](https://img.shields.io/badge/react-186489?style=for-the-badge&logo=react&logoColor=blue)
+
 
 
 ![XuxaO415's GitHub stats](https://github-readme-stats.vercel.app/api?username=xuxaO415&theme=jolly&show_icons=true)
