@@ -28,15 +28,19 @@ Here are some ideas to get you started:
 
 -->
 
-- 🧝🏼‍♀️ Fun facts: Avid gamer with 275+ game collection, cartoon and anime lover,  classically trained violinist, love gardening (currently trying to grow plummeria), travel lover!
+- 🧝🏼‍♀️ Fun facts: Avid gamer with 300+ game collection, cartoon and anime lover,  classically trained violinist, love gardening (currently trying to grow plummeria), travel lover!
+- Update: I suck at gardening :(
+
 
 
 **Languages and Tools:**
-<!--
 
+<!-- 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ajax/ajax.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jinja/jinja.png"></code>
@@ -48,7 +52,9 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/alchmey/alchmey.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
--->
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> -->
+
 
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -66,7 +72,14 @@ Here are some ideas to get you started:
 ![Axios](https://img.shields.io/badge/axios-186489?style=for-the-badge&logo=axios&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-186489?style=for-the-badge&logo=jquery&logoColor=white)
 ![Ajax](https://img.shields.io/badge/ajax-186489?style=for-the-badge&logo=ajax&logoColor=white)
-![React](https://img.shields.io/badge/react-186489?style=for-the-badge&logo=react&logoColor=blue)
+![React](https://img.shields.io/badge/react-186489?style=for-the-badge&logo=react&logoColor=white)
+![Nodejs](https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white)
+![GitHub](https://img.shields.io/badge/-Github-2088FF?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![NPM](https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+
+
+
 
 
 
