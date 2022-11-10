@@ -1,4 +1,4 @@
-### Hello World 👋👋👋 I'm Christina
+### Hola Mundo 👋👋👋 I'm Christina
 
 <!--
 
@@ -28,8 +28,14 @@ Here are some ideas to get you started:
 
 -->
 
+## :book: About me
+- 👩🏻‍💻 Aspiring full-stack software engineer
+
 - 🧝🏼‍♀️ Fun facts: Avid gamer with 300+ game collection, cartoon and anime lover,  classically trained violinist, love gardening (currently trying to grow plummeria), travel lover!
-- Update: I suck at gardening :(
+- 🫥 Update: I suck at gardening :(
+
+
+[![Linkedin: covalle415](https://img.shields.io/badge/-XuXaO415-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/covalle415/)](https://www.linkedin.com/in/covalle415/)
 
 
 
@@ -86,5 +92,9 @@ Here are some ideas to get you started:
 ![XuxaO415's GitHub stats](https://github-readme-stats.vercel.app/api?username=xuxaO415&theme=jolly&show_icons=true)
  
 ![XuxaO415 Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=xuxao415&langs_count=8&hide=Jupyter%20Notebook&hide_border=true&exclude_repo&layout=compact&custom_title=Most%20Used%20Languages%20(Top%208))
+
+## 🔔 Here's a bunch of data about me from GitHub Metrics
+![Metrics](https://metrics.lecoq.io/XuXaO415?template=classic&repositories.batch=25&base.community=0&base.repositories=0&base.metadata=0&languages=1&isocalendar=1&lines=1&habits=1&activity=1&fortune=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&activity=false&activity.limit=5&activity.load=50&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&fortune=false&config.timezone=America%2FLos_Angeles)
+
 
 
