@@ -73,6 +73,7 @@ Here are some ideas to get you started:
 ![Jinja](https://img.shields.io/badge/Jinja-186489?style=for-the-badge&logo=jinja&logoColor=black)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-186489?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 ![Bcrypt](https://img.shields.io/badge/Bcrypt-186489?style=for-the-badge&logo=bcrypt&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-186489?style=for-the-badge&logo=netlify&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-186489?style=for-the-badge&logo=heroku&logoColor=purple)
 ![Font Awesome](https://img.shields.io/badge/fontawesome-186489?style=for-the-badge&logo=fontawesome&logoColor=white)
 ![Axios](https://img.shields.io/badge/axios-186489?style=for-the-badge&logo=axios&logoColor=white)
