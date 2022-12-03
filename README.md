@@ -66,30 +66,39 @@ Here are some ideas to get you started:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Pyhton-186489?style=for-the-badge&logo=python&logoColor=white)
-![Javascript](https://img.shields.io/badge/Javascript-186489?style=for-the-badge&logo=javascript&logoColor=yellow)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=blue)
+![Python](https://img.shields.io/badge/Pyhton-186489?style=for-the-badge&logo=python&logoColor=#3776AB)
+![Javascript](https://img.shields.io/badge/Javascript-186489?style=for-the-badge&logo=javascript&logoColor=#F7DF1E)
 ![WTForms](https://img.shields.io/badge/WTForms-000000?style=for-the-badge&logo=wtforms&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-186489?style=for-the-badge&logo=flask&logoColor=black)
-![Jinja](https://img.shields.io/badge/Jinja-186489?style=for-the-badge&logo=jinja&logoColor=black)
+![Jinja](https://img.shields.io/badge/Jinja-B41717?style=for-the-badge&logo=jinja&logoColor=black)
+![SQL](https://img.shields.io/badge/-SQL-2088FF?style=for-the-badge&logo=sql&logoColor=blue)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-186489?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 ![Bcrypt](https://img.shields.io/badge/Bcrypt-186489?style=for-the-badge&logo=bcrypt&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-186489?style=for-the-badge&logo=netlify&logoColor=blue)
 ![Heroku](https://img.shields.io/badge/heroku-186489?style=for-the-badge&logo=heroku&logoColor=purple)
-![Font Awesome](https://img.shields.io/badge/fontawesome-186489?style=for-the-badge&logo=fontawesome&logoColor=white)
+![Font Awesome](https://img.shields.io/badge/fontawesome-186489?style=for-the-badge&logo=fontawesome&logoColor=#528DD7)
 ![Axios](https://img.shields.io/badge/axios-186489?style=for-the-badge&logo=axios&logoColor=purple)
-![jQuery](https://img.shields.io/badge/jquery-186489?style=for-the-badge&logo=jquery&logoColor=white)
+![jQuery](https://img.shields.io/badge/jquery-186489?style=for-the-badge&logo=jquery&logoColor=blue)
 ![Ajax](https://img.shields.io/badge/ajax-186489?style=for-the-badge&logo=ajax&logoColor=white)
-![React](https://img.shields.io/badge/react-186489?style=for-the-badge&logo=react&logoColor=blue)
+![React](https://img.shields.io/badge/react-186489?style=for-the-badge&logo=react&logoColor=#61DAFB)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-186489?style=for-the-badge&logo=express&logoColor=purple)
+![Express](https://img.shields.io/badge/-Express-43853d?style=for-the-badge&logo=express&logoColor=#000000)
 ![GitHub](https://img.shields.io/badge/-Github-2088FF?style=for-the-badge&logo=github&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![NPM](https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-186489?style=for-the-badge&logo=jest&logoColor=green)
-![REST APIs](https://img.shields.io/badge/-REST_APIs-CB3837?style=for-the-badge&logo=rest&logoColor=white)
+![Jasmine](https://img.shields.io/badge/Jasmine-186489?style=for-the-badge&logo=jasmine&logoColor=purple)
+![RESTful APIs](https://img.shields.io/badge/-RESTFul_APIs-CB3837?style=for-the-badge&logo=rest&logoColor=white)
+![MERN](https://img.shields.io/badge/-MERN-43853d?style=for-the-badge&logo=mern&logoColor=white)
+![CRUD](https://img.shields.io/badge/-CRUD-2088FF?style=for-the-badge&logo=crud&logoColor=black)
 
 
+
+
+
+
+<!-- ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=#7952B3) -->
 
 
 
