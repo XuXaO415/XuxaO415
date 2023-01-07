@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 - 🫥 Update: I suck at gardening :(
 
 
-[![Linkedin: covalle415](https://img.shields.io/badge/-XuXaO415-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/covalle415/)](https://www.linkedin.com/in/covalle415/)
+[![Linkedin: covalle415](https://img.shields.io/badge/-XuXaO415-blue?style=flat-square&logo=Linkedin&logoColor=#0A66C2&link=https://www.linkedin.com/in/covalle415/)](https://www.linkedin.com/in/covalle415/)
 
 
 
